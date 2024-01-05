@@ -16,3 +16,6 @@ Introducing a delightful collection of pixel-perfect ice cream assets (32x32), f
 Whether you're a game developer, designer, or simply someone with a penchant for pixel art, these ice cream assets are meticulously crafted to bring a delicious touch to your project.
 
 Explore the myriad of flavors, let your imagination be inspired, and add a sprinkle of sweetness to your creations!
+
+![Pixel Ice Cream Collection](https://github.com/Padespanaki/Cute-Ice-Creams/blob/main/Ice-Creams.png)
+
