@@ -17,5 +17,7 @@ Whether you're a game developer, designer, or simply someone with a penchant for
 
 Explore the myriad of flavors, let your imagination be inspired, and add a sprinkle of sweetness to your creations!
 
+Feel free to download these assets from [itch.io](https://padespanaki.itch.io/) and use them in your projects.
+
 ![Pixel Ice Cream Collection](https://github.com/Padespanaki/Cute-Ice-Creams/blob/main/Ice-Creams.png)
 
